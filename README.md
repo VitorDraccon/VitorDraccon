@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 I'm **Vitor Draccon**, a developer and creator building a multi-project ecosystem that integra­tes AI, world-building and practical software solutions. My focus is turning complex ideas into functional, scalable platforms.
 
@@ -7,7 +7,6 @@ I'm **Vitor Draccon**, a developer and creator building a multi-project ecosyste
 - **Sanctum** — Training and simulation platform build with towers of study.
 - **Sentinela** — AI-driven governance, monitoring and cybersecurity environment.
 - **SWARM** — Exoplanetary exploration project powered by autonomous AI agents.
-- **Vaeloria** — Fantasy-based community with interactive systems and storytelling.
 
 ### 🌱 I’m currently learning
 - Advanced Next.js/React patterns  
@@ -28,6 +27,3 @@ I'm **Vitor Draccon**, a developer and creator building a multi-project ecosyste
 ### 📫 How to reach me
 - **Email:** vitor-draccon@outlook.com
 - **LinkedIn:** linkedin.com/in/vitordraccon  
-
-### ⚡ Fun fact
-I design entire fictional ecosystems and then engineer the software to make them real.
