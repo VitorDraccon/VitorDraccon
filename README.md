@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**VitorDraccon/VitorDraccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vitor Draccon**, a developer and creator building a multi-project ecosystem that integra­tes AI, world-building and practical software solutions. My focus is turning complex ideas into functional, scalable platforms.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- **Draccon Tech** — Ecosystem of products merging technology, design and narrative.
+- **Sanctum** — Training and simulation platform build with towers of study.
+- **Sentinela** — AI-driven governance, monitoring and cybersecurity environment.
+- **SWARM** — Exoplanetary exploration project powered by autonomous AI agents.
+- **Vaeloria** — Fantasy-based community with interactive systems and storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Advanced Next.js/React patterns  
+- API integrations (Meta, Google, AI ecosystems)  
+- System design for scalable multi-product architectures  
+
+### 👯 I’m looking to collaborate on
+- AI-powered tools and assistants  
+- Full-stack solutions  
+- Creative coding + world-building experiences  
+
+### 💬 Ask me about
+- Building structured multi-project ecosystems  
+- Branding + technical integration  
+- AI assistants and automation  
+- Web platforms in Next.js, Node.js, Python/FastAPI  
+
+### 📫 How to reach me
+- **Email:** vitor-draccon@outlook.com
+- **LinkedIn:** linkedin.com/in/vitordraccon  
+
+### ⚡ Fun fact
+I design entire fictional ecosystems and then engineer the software to make them real.
