@@ -13,11 +13,6 @@ I'm **Vitor Draccon**, a developer and creator building a multi-project ecosyste
 - API integrations (Meta, Google, AI ecosystems)  
 - System design for scalable multi-product architectures  
 
-### 👯 I’m looking to collaborate on
-- AI-powered tools and assistants  
-- Full-stack solutions  
-- Creative coding + world-building experiences  
-
 ### 💬 Ask me about
 - Building structured multi-project ecosystems  
 - Branding + technical integration  
